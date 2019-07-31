@@ -1,13 +1,13 @@
 # TIC TAC TOE
 
-Makefile is provided for easier execution
-	Decision Tree: make d_tree
-	Random Forest: make r_forest
+Makefile is provided for easier execution  
+	Decision Tree: make d_tree  
+	Random Forest: make r_forest  
 
-Decision Tree model training and testing commands:
-	python main.py -m 0 -t tic_tac_toe_train.data -e tic_tac_toe_test.data
-Random Forest model training and testing commands:
-	python main.py -m 1 -t tic_tac_toe_train.data -e tic_tac_toe_test.data -n 20
+Decision Tree model training and testing commands:  
+	python main.py -m 0 -t tic_tac_toe_train.data -e tic_tac_toe_test.data  
+Random Forest model training and testing commands:  
+	python main.py -m 1 -t tic_tac_toe_train.data -e tic_tac_toe_test.data -n 20  
 	
 Implementaion:
 
